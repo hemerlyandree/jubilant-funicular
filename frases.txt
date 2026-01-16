@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 quero fazer algumas alterações e testes.
 
+=======
+quero fazer algumas alterações e testes.
+
+>>>>>>> 7293b908e1e829a5382afd924d7049e8e2f49977
 adicionei mais algumas coisas aqui.......
